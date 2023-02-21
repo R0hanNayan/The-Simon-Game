@@ -1,0 +1,46 @@
+h1{
+    text-align: center;
+    font-family: 'VT323', monospace;
+    font-size: 100px;
+    color: beige;
+}
+div{
+    text-align: center;
+}
+
+body{
+    background-color:rgb(34, 25, 25);
+}
+
+button{
+    height: 250px;
+    width: 250px;
+    margin: 2%;
+    border-style: solid;
+    border-width: 10px;
+    border-radius: 50px;
+}
+
+.pressed{
+    box-shadow: 0 0 20px white;
+  background-color: grey;
+}
+
+.wrong {
+    background-color: red;
+    opacity: 0.8;
+  }
+  
+
+#green{
+    background-color: green;
+}
+#red{
+    background-color: red;
+}
+#yellow{
+    background-color: yellow;
+}
+#blue{
+    background-color: blue;
+}
